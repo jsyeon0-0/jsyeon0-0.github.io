@@ -158,7 +158,7 @@ defaults:
   home:
     heading: "승연이의 공부 기록"
     subheading: "Get Study With Me (⑅´•⌔•`)*✲ﾟ*｡"
-    banner: "Your image url"
+    banner: "assets/Rabbit_Gallery_Films and Television.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
