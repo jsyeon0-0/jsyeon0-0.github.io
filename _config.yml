@@ -156,8 +156,8 @@ yat:
 # Page default value
 defaults:
   home:
-    heading: "jsyeon0-0"
-    subheading: "jsyeon's blog"
+    heading: "승연's 데이터 정복기"
+    subheading: "Get Study With Me"
     banner: "Your image url"
 
 # Banner default settings
