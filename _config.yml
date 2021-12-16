@@ -134,7 +134,7 @@ header_transparent: false
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-night_mode: "auto"
+# night_mode: "auto"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -158,7 +158,7 @@ defaults:
   home:
     heading: "승연이의 공부 기록"
     subheading: "Get Study With Me (⑅´•⌔•`)*✲ﾟ*｡"
-    banner: "https://pin.it/57yG98L"
+    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
